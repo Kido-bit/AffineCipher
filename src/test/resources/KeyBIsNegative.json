@@ -1,0 +1,6 @@
+{
+  "a": "5",
+  "b": "-1",
+  "operation":"encrypt",
+  "plainText":"messageToEncrypt"
+}
